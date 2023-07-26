@@ -1,0 +1,16 @@
+html{background-color: coral}
+h1{font-family: fantasy;
+color: brown;
+background-color: bisque;
+}
+ol li{
+    color: brown;
+    font-weight: bold;
+    
+   
+}
+#taco{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: aliceblue;
+}
